@@ -1,2 +1,2 @@
 # image_merge_bot
-Telegram bot for merging two images, aws lambda ready
+Telegram bot for merging two images, aws lambda and Yandex Function ready
